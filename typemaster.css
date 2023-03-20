@@ -437,7 +437,7 @@ body {
     flex-direction: row;
     width: 100%;
     gap: 30px;
-    justify-content: space-between;
+    justify-content: center;
   }
 
   .cnt1_photo1 {
@@ -484,7 +484,7 @@ body {
     padding-left: 40px;
     padding-right: 40px;
     box-sizing: border-box;
-    justify-content: space-between;
+    justify-content: center;
   }
 
   .cnt1_text1 {
